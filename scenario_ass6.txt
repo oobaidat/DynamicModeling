@@ -1,0 +1,5 @@
+assume{sending_a_message{false}}; [1:14]
+assume{sending_a_message{true}}; [15:30]
+desire{form_of_assistance{intervene}}; [1:Inf]
+belief{degree_of_responsibility{6}}; [1:Inf]
+belief{sending_a_message{false}}; [1]
